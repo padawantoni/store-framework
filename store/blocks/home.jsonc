@@ -3,11 +3,5 @@
     "blocks": [
       "rich-text"
     ]
-  },
-  "rich-text": {
-    "props": {
-      "text": "**Helo, World!**",
-      "text-position": "RIGHT"
-    }
   }
 }
